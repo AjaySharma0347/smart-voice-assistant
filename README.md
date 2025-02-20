@@ -70,7 +70,7 @@
    ```
 3. Start the development server:
    ```bash
-   npx expo dev
+   npx expo start
    ```
 
 ## ✨ Features
